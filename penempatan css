@@ -1,0 +1,9 @@
+- embeb 
+<style></style> di dalam html padabagian head
+
+- inline
+<p style="color: lightblue;"></p>
+
+- eksternal
+<link rel="stylesheet" href="(namafilecss)">
+

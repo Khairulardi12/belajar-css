@@ -1,0 +1,13 @@
+selector {properti: value;}
+
+contoh:
+h1 { color: blue; }
+ket: 
+    h1 = selector
+    color = properti
+    blue = value
+
+
+- selector digunakan untuk memilih dan memanipulasi elemen spesifik pada html.
+- elemen html dipilih berdasarkan tag, id, class bahkan pola / pattern.
+- semakin kompleks struktur html, selector bisa semakin oompleks / spesifik.
