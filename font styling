@@ -1,0 +1,10 @@
+body{
+    font: italic normal bold 16px/18px helvetica,arial, sans-serif;
+}
+
+italic = font-style
+normal = font-variant 
+bold = font-weight 
+16px = font-size 
+18px = font-height 
+helvetica,arial, sans-serif = font-family 
