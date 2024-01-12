@@ -1,0 +1,11 @@
+.navigasi li{
+    display: inline;
+}
+
+/**
+* * Display ada 4
+* ? Inline = satu garis, lebar tinggi tdk dpt diubah
+* ? Inline-block = tdk ada elemen default inline-block, perilaku dasar sama dengan inline, dapat di atur lebar dan tinggi
+* ? Block = menambahkan garis baru ketika dibuat, dapat mengubah lebar dan tinggi
+
+* ! Display default dapat diubah */

@@ -1,0 +1,13 @@
+.prg{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    overflow: auto;
+}
+
+/** 
+* * Overflow
+* ! visible = default
+* ! auto = otomatis menambahkan scroll jika berlebih
+* ! hidden = disembunyikan yang berlebih
+* ! scroll = menambahkan scroll*/
