@@ -1,0 +1,84 @@
+body{
+    font: 16px/18px arial, sans-serif;
+    background: url(../restaurant.webp);
+    color: #333;
+}
+
+.container{
+    width: 800px;
+    margin: 20px auto;
+    background-color: azure;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+
+.header{
+    padding: 20px;
+    padding-bottom: 10px;
+}
+
+.header .judul{
+    font-size: 40px;
+}
+
+.header ul{
+    list-style-type: none;
+    margin-left: -42px; 
+}
+
+.header ul li{
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.header a{
+    text-decoration: none;
+    color: salmon;
+    padding: 5px;
+}
+
+.header a:hover{
+    background-color: lightskyblue;
+    color: white;
+}
+
+.cafe{
+    height: 400px;
+    background: url(../kopi.jpg) no-repeat;
+    background-size: cover;
+    border-top: 5px solid lightcoral;
+    border-bottom: 5px solid lightblue;
+}
+
+.contant{
+    padding: 20px;
+}
+
+.contant .penulis{
+    font-size: 12px;
+    margin-top: -5px;
+}
+
+.contant .penulis a{
+    color: salmon;
+    text-decoration: none;
+}
+
+.contant p{
+    margin-bottom: 10px;
+}
+
+.footer{
+    background-color: #333;
+    padding: 10px;
+}
+
+.footer .copy{
+    color: white;
+    text-align: center;
+    font-size: 12px;
+}
