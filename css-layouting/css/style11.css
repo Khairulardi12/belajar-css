@@ -1,0 +1,21 @@
+body{
+    height: 2000px;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+}
+
+.satu{
+    background-color: lightblue;
+}
+
+.dua{
+    background-color: lightcoral;
+    position: fixed;
+}
+
+.tiga{
+    background-color: lightgreen;
+}

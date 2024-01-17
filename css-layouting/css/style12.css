@@ -1,0 +1,31 @@
+div{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+
+.container{
+    width: 800px;
+    height: 800px;
+    position: relative;
+}
+
+.satu{
+    background-color: lightblue;
+    z-index: 1;
+}
+
+.dua{
+    background-color: aquamarine;
+    z-index: 2;
+    top: 100px;
+    left: 100px;
+}
+
+.tiga{
+    background-color: burlywood;
+    top: 200px;
+    left: 200px;
+}
+
+/* z-index mengatur posisi 3d */
