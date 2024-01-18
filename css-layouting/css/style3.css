@@ -6,14 +6,10 @@
 /**
 * *  */
 
-
-
 .satu{
     width: 200px;
     height: 200px;
     background-color: lightblue;
-    margin: 50px;
-    /* margin : atas kanan bawah kiri (kalau 1 nilai ke semua margin)*/
 }
 
 
@@ -21,7 +17,6 @@
     width: 100px;
     height: 100px;
     background-color: lightcoral;
-    
 }
 
 .tiga{
